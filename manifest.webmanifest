@@ -1,0 +1,1 @@
+{"name":"수시 지원 상담카드","short_name":"수시상담","description":"학생 수시 지원 상담 및 합격 예측 시뮬레이터","start_url":"./","display":"standalone","background_color":"#f3f4f6","theme_color":"#1d4ed8","lang":"en","scope":"./","icons":[{"src":"favicon.svg","sizes":"192x192","type":"image/svg+xml"},{"src":"favicon.svg","sizes":"512x512","type":"image/svg+xml"}]}
